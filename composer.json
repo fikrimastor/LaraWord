@@ -28,7 +28,7 @@
             "public/plugins/{$name}": ["type:wordpress-plugin"],
             "public/themes/{$name}": ["type:wordpress-theme"]
         },
-        "wordpress-install-dir": "public/wordpress"
+        "wordpress-install-dir": "public"
     },
     "config": {
         "preferred-install": "dist",
